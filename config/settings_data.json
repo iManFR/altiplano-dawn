@@ -1,10 +1,10 @@
 {
   "current": {
-    "logo": "shopify://shop_images/logo.svg",
-    "logo_mobile": "shopify://shop_images/Group_4.svg",
+    "logo": "shopify:\/\/shop_images\/logo.svg",
+    "logo_mobile": "shopify:\/\/shop_images\/Group_4.svg",
     "logo_width": 160,
     "logo_width_mobile": 150,
-    "favicon": "shopify://shop_images/Favicon_4b79a66e-8d8d-4da3-92ff-cf8c91401def.jpg",
+    "favicon": "shopify:\/\/shop_images\/Favicon_4b79a66e-8d8d-4da3-92ff-cf8c91401def.jpg",
     "type_header_font": "americana_n4",
     "heading_scale": 100,
     "type_body_font": "montserrat_n3",
@@ -103,12 +103,12 @@
     "brand_description": "",
     "brand_image_width": 100,
     "social_facebook_link": "",
-    "social_instagram_link": "https://instagram.com/altiplanoparis",
+    "social_instagram_link": "https:\/\/instagram.com\/altiplanoparis",
     "social_youtube_link": "",
-    "social_tiktok_link": "https://tiktok.com/altiplano_",
+    "social_tiktok_link": "https:\/\/tiktok.com\/altiplano_",
     "social_twitter_link": "",
     "social_snapchat_link": "",
-    "social_pinterest_link": "https://pinterest.com/altiplano-paris",
+    "social_pinterest_link": "https:\/\/pinterest.com\/altiplano-paris",
     "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
@@ -119,7 +119,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "accessoires",
-    "checkout_logo_image": "shopify://shop_images/Logo_green.svg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Logo_green.svg",
     "checkout_logo_position": "left",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#edebe8",
@@ -143,12 +143,15 @@
         }
       }
     },
-    "content_for_index": [],
+    "content_for_index": [
+
+    ],
     "blocks": {
       "13768625480086291342": {
-        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
-        "settings": {}
+        "settings": {
+        }
       }
     },
     "color_schemes": {
@@ -376,7 +379,7 @@
       "sale_badge_color_scheme": "accent-2",
       "sold_out_badge_color_scheme": "inverse",
       "brand_headline": "",
-      "brand_description": "<p></p>",
+      "brand_description": "<p><\/p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
