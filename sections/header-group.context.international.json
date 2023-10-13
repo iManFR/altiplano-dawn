@@ -5,12 +5,14 @@
   },
   "sections": {
     "announcement-bar": {
+      "disabled": false,
       "settings": {
       },
       "blocks": {
         "announcement-bar-0": {
           "settings": {
-            "text": "Worldwide Shipping 📦🌍"
+            "text": "Worldwide Shipping 📦🌍",
+            "link": "shopify:\/\/pages\/faq"
           }
         }
       }
