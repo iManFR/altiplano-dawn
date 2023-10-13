@@ -284,6 +284,10 @@ h5,
   word-break: break-word;
 }
 
+b, strong {
+  font-weight: 600 !important;
+}
+
 .hxl {
   font-size: calc(var(--font-heading-scale) * 5rem);
 }
@@ -2470,6 +2474,10 @@ product-info .loading__spinner:not(.hidden) ~ *,
   max-width: 100%;
 }
 
+.header__heading-logo__mobile {
+  display: none;
+}
+
 .header__heading-logo-wrapper {
   width: 100%;
   display: inline-block;
@@ -2477,6 +2485,14 @@ product-info .loading__spinner:not(.hidden) ~ *,
 }
 
 @media screen and (max-width: 989px) {
+  .header__heading-logo {
+    display: none;
+  }
+
+  .header__heading-logo__mobile {
+    display: block;
+  }
+
   .header__heading,
   .header__heading-link {
     text-align: center;
@@ -2494,6 +2510,10 @@ product-info .loading__spinner:not(.hidden) ~ *,
 }
 
 @media screen and (min-width: 990px) {
+  .header__heading-logo__mobile {
+    display: none;
+  }
+
   .header--middle-left .header__heading-link,
   .header--top-left .header__heading-link {
     margin-left: -0.75rem;
@@ -2648,7 +2668,7 @@ details[open] .modal-overlay {
 details[open] .modal-overlay::after {
   position: absolute;
   content: '';
-  background-color: rgb(var(--color-foreground), 0.5);
+  background-color: rgb(var(--color-shadow), 0.5);
   top: 100%;
   left: 0;
   right: 0;
@@ -2662,7 +2682,6 @@ details[open] .modal-overlay::after {
 
 .search-modal {
   opacity: 0;
-  border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
   min-height: calc(100% + var(--inputs-margin-offset) + (2 * var(--inputs-border-width)));
   height: 100%;
 }

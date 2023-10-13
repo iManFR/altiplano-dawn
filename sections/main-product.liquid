@@ -174,7 +174,20 @@
             {%- when 'description' -%}
               {%- if product.description != blank -%}
                 <div class="product__description rte quick-add-hidden" {{ block.shopify_attributes }}>
+                  {% case product.template_suffix %}
+                    {% when 'bagues' %}
+                      {{ pages['prefix-description-bagues'].content }}
+                    {% when 'joncs' %}
+                      {{ pages['prefix-description-joncs'].content }}
+                    {% when 'pendentifs' %}
+                      {{ pages['prefix-description-pendentifs'].content }}
+                  {% endcase %}
+                  
                   {{ product.description }}
+
+                  {% if product.template_suffix == 'bagues' or product.template_suffix == 'joncs' or product.template_suffix == 'pendentifs' %}
+                    {{ pages['suffix-artisanal'].content }}
+                  {% endif %}
                 </div>
               {%- endif -%}
             {%- when 'sku' -%}

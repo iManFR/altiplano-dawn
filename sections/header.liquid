@@ -185,6 +185,16 @@
                   sizes: sizes,
                   preload: true
                 }}
+                {%- if settings.logo_mobile != blank -%}
+                  {{ settings.logo_mobile | image_url: width: 600 | image_tag:
+                    class: 'header__heading-logo__mobile motion-reduce',
+                    widths: widths,
+                    width: settings.logo_width_mobile,
+                    alt: logo_alt,
+                    sizes: sizes,
+                    preload: true
+                  }}
+                {%- endif -%}
               </div>
             {%- else -%}
               <span class="h2">{{ shop.name }}</span>
