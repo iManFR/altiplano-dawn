@@ -4,5 +4,17 @@
     "market": "eu"
   },
   "sections": {
+    "announcement-bar": {
+      "settings": {
+      },
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "Livraison disponible en Europe 🌍",
+            "link": "shopify:\/\/pages\/faq"
+          }
+        }
+      }
+    }
   }
 }
