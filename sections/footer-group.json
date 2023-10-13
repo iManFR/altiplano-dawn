@@ -5,43 +5,54 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
+        "26271411-4df0-4b90-81e2-ddec23e5fa37": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "À propos",
             "menu": "footer"
           }
         },
-        "footer-1": {
+        "1a2f8fac-8ebe-483e-b5fe-8dcbe073e9b3": {
           "type": "link_list",
           "settings": {
-            "heading": "Info",
-            "menu": "footer"
+            "heading": "Aide & SAV",
+            "menu": "deuxi-me-menu-pied-de-page"
           }
         },
-        "footer-2": {
+        "f444725a-eda1-458d-ab7b-198dfec86c15": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Altiplano",
+            "subtext": "<p><em>\"On pouvait y apercevoir le jour d'un côté et la nuit de l'autre\"<\/em><\/p>"
+          }
+        },
+        "717509cb-1f74-4c33-8587-9105708f305b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_4.svg",
+            "image_width": 195,
+            "alignment": "center"
           }
         }
       },
       "block_order": [
-        "footer-0",
-        "footer-1",
-        "footer-2"
+        "26271411-4df0-4b90-81e2-ddec23e5fa37",
+        "1a2f8fac-8ebe-483e-b5fe-8dcbe073e9b3",
+        "f444725a-eda1-458d-ab7b-198dfec86c15",
+        "717509cb-1f74-4c33-8587-9105708f305b"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "newsletter_enable": true,
-        "newsletter_heading": "Subscribe to our emails",
+        "newsletter_heading": "Abonnez-vous à notre newsletter",
+        "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": false,
-        "enable_language_selector": false,
+        "enable_language_selector": true,
         "payment_enable": true,
         "show_policy": false,
-        "margin_top": 48,
+        "margin_top": 36,
         "padding_top": 36,
         "padding_bottom": 36
       }
