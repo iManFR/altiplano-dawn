@@ -354,11 +354,13 @@
       "variant_total": "Variant total",
       "items_added": {
         "one": "{{ quantity }} item added",
-        "other": "{{ quantity }} items added"
+        "other": "{{ quantity }} items added",
+        "many": "{{ quantity }} items added"
       },
       "items_removed": {
         "one": "{{ quantity }} item removed",
-        "other": "{{ quantity }} items removed"
+        "other": "{{ quantity }} items removed",
+        "many": "{{ quantity }} items removed"
       },
       "product_variants": "Product variants",
       "total_items": "Total items",
@@ -522,7 +524,9 @@
           "cluster_title": {
             "many": "Cluster of {{number}} markers"
           }
-        }
+        },
+        "checkout_as_guest": "Pay as a guest",
+        "checkout_a_different_way": "Pay another way"
       },
       "stock": {
         "unshippable_product": {
@@ -561,7 +565,8 @@
           "many": "%{count} working days"
         },
         "other_method": {
-          "many": "%{count} other methods available from"
+          "many": "%{count} other methods available from",
+          "none": "No other method available"
         },
         "subscription_delivery_description": {
           "prepaid_delivery_frequency": {
@@ -601,7 +606,8 @@
         },
         "order_edit_banner_items_added": {
           "many": "%{count} added"
-        }
+        },
+        "add_card": "Use another card"
       },
       "shipping_errors": {
         "shipping_method_not_available_generic": {
