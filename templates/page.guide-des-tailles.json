@@ -18,15 +18,23 @@
             "heading_size": "h0"
           }
         },
+        "70061870-ef5e-4fa0-a4d3-9aaf6db9920d": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vous ne connaissez pas votre taille de bijoux ?",
+            "heading_size": "h2"
+          }
+        },
         "template--19245352616258__166e7b3c-31ea-4c55-83b4-1447be9ad916-1685302268954309be-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Vous ne connaissez pas votre taille de bijoux ? <\/p><p>Pas d'inquiétude, nous sommes la pour vous accompagner. Voici plusieurs méthodes qui vous permettront de définir votre taille idéale<\/p>"
+            "text": "<p> </p><p>Pas d'inquiétude, nous sommes la pour vous accompagner. Voici plusieurs méthodes qui vous permettront de définir votre taille idéale</p>"
           }
         }
       },
       "block_order": [
         "template--19245352616258__166e7b3c-31ea-4c55-83b4-1447be9ad916-1685302268954309be-0",
+        "70061870-ef5e-4fa0-a4d3-9aaf6db9920d",
         "template--19245352616258__166e7b3c-31ea-4c55-83b4-1447be9ad916-1685302268954309be-1"
       ],
       "settings": {
@@ -49,9 +57,7 @@
           }
         }
       },
-      "block_order": [
-        "template--19438129774914__7c1c3af1-5a68-4d5b-8244-1dbe25f2754c-heading-1"
-      ],
+      "block_order": ["template--19438129774914__7c1c3af1-5a68-4d5b-8244-1dbe25f2754c-heading-1"],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -67,32 +73,32 @@
         "template--19438129774914__e953a1d3-9433-453e-8bd7-4d4a6b1264dc-row-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_7593.jpg",
+            "image": "shopify://shop_images/IMG_7593.jpg",
             "caption": "Méthode 1",
             "heading": "Le baguier",
-            "text": "<ul><li>Commandez notre <a href=\"\/products\/baguier-altiplano\" target=\"_blank\" title=\"Baguier Altiplano\">baguier<\/a> et recevez le sous 3 jours ouvrés<\/li><li>Insérez votre doigt dans le baguier et tirez la languette jusqu'a ce qu'il s'adapte à votre doigt. Attention à ne pas trop serrer  <\/li><li>Votre taille est indiquée à l'aide la flèche<\/li><\/ul>",
+            "text": "<ul><li>Commandez notre <a href=\"/products/baguier-altiplano\" target=\"_blank\" title=\"Baguier Altiplano\">baguier</a> et recevez le sous 3 jours ouvrés</li><li>Insérez votre doigt dans le baguier et tirez la languette jusqu'a ce qu'il s'adapte à votre doigt. Attention à ne pas trop serrer  </li><li>Votre taille est indiquée à l'aide la flèche</li></ul>",
             "button_label": "Découvrir le baguier",
-            "button_link": "shopify:\/\/products\/baguier-altiplano"
+            "button_link": "shopify://products/baguier-altiplano"
           }
         },
         "template--19438129774914__e953a1d3-9433-453e-8bd7-4d4a6b1264dc-row-3": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/al-amin-mir-sUY_XCkKBzg-unsplash.jpg",
+            "image": "shopify://shop_images/al-amin-mir-sUY_XCkKBzg-unsplash.jpg",
             "caption": "Méthode 2",
             "heading": "Le baguier à imprimer",
-            "text": "<p>Imprimez un baguier à l'échelle, découpez le avec une paire de ciseaux, enroulez le autour de votre doigt et prenez la mesure.<\/p>",
-            "button_label": "",
-            "button_link": ""
+            "text": "<ul><li>Téléchargez le fichier ci-dessous</li><li>Imprimez le baguier à l'échelle (100%)</li><li>Découpez le avec une paire de ciseaux</li><li>Enroulez le autour de votre doigt et prenez la mesure</li></ul>",
+            "button_label": "Télécharger le baguier à imprimer",
+            "button_link": "https://cdn.shopify.com/s/files/1/0767/3108/9218/files/ring-sizer.pdf?v=1696860570"
           }
         },
         "c05f2eae-e43f-4678-b20c-424c4825fb3a": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0347.jpg",
+            "image": "shopify://shop_images/IMG_0347_ab5496b4-2b81-41aa-82a1-681c4048444f.jpg",
             "caption": "Méthode 3",
             "heading": "La ficelle",
-            "text": "<ul><li>Découpez une ficelle<\/li><li>Entourez votre doigt avec la ficelle sans trop serrer<\/li><li>Munissez vous d'un crayon \/ feutre et marquez l'endroit ou les 2 ficelles se rejoignent<\/li><li>À l'aide d'une règle faites une mesure entre l'extremitée de la ficelle et votre point de marquage<\/li><li>La mesure obtenue correspond à la circonférence de votre doigt<\/li><\/ul>",
+            "text": "<ul><li>Découpez une ficelle</li><li>Entourez votre doigt avec la ficelle sans trop serrer</li><li>Munissez vous d'un crayon / feutre et marquez l'endroit ou les 2 ficelles se rejoignent</li><li>À l'aide d'une règle faites une mesure entre l'extremitée de la ficelle et votre point de marquage</li><li>La mesure obtenue correspond à la circonférence de votre doigt</li></ul>",
             "button_label": "",
             "button_link": ""
           }
@@ -100,12 +106,12 @@
         "template--19438129774914__e953a1d3-9433-453e-8bd7-4d4a6b1264dc-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0337.jpg",
+            "image": "shopify://shop_images/IMG_0337_efea9aa9-6b42-48e5-a693-a0b02be7520e.jpg",
             "caption": "Méthode 4",
             "heading": "L'application mobile",
-            "text": "<p>Cette méthode s'applique si vous possédez déjà des bijoux<\/p><ul><li>Télécharger l'application<\/li><li>Ouvrez l'application<\/li><li>Déposez votre bague sur votre téléphone<\/li><li>Ajustez la règle jusqu'a ce que la circonférence de votre bague corresponde parfaitement à celle de l'anneau affiché sur votre téléphone<\/li><\/ul>",
+            "text": "<p>Cette méthode s'applique si vous possédez déjà des bijoux</p><ul><li>Télécharger l'application</li><li>Ouvrez l'application</li><li>Déposez votre bague sur votre téléphone</li><li>Ajustez la règle jusqu'a ce que la circonférence de votre bague corresponde parfaitement à celle de l'anneau affiché sur votre téléphone</li></ul>",
             "button_label": "Télécharger l'application IOS",
-            "button_link": "https:\/\/apps.apple.com\/fr\/app\/baguier-mesure-taille-de-bague\/id1644578569"
+            "button_link": "https://apps.apple.com/fr/app/baguier-mesure-taille-de-bague/id1644578569"
           }
         }
       },
@@ -135,7 +141,7 @@
       "type": "page",
       "settings": {
         "page": "tailles-par-bague",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -152,9 +158,7 @@
           }
         }
       },
-      "block_order": [
-        "template--19438129774914__e18ab166-9138-4374-9240-7a88e3945ccf-heading-1"
-      ],
+      "block_order": ["template--19438129774914__e18ab166-9138-4374-9240-7a88e3945ccf-heading-1"],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -177,7 +181,7 @@
         "template--19438129774914__5b18620e-7bde-4a2b-aab9-640c07e2d85e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Tous nos joncs sont en taille unique. Nos joncs ont une ouverture moyenne de 3cm et sont étirables. Attention cependant à ne pas trop les étirer au risque de les déformer \/ abimer.<\/p>",
+            "text": "<p>Tous nos joncs sont en taille unique. Ils ont une ouverture moyenne de 3cm et sont étirables. Attention cependant à ne pas trop les étirer au risque de les déformer / fragiliser sur le long terme.</p>",
             "text_style": "body"
           }
         },
@@ -185,7 +189,7 @@
           "type": "button",
           "settings": {
             "button_label": "Découvrir les joncs",
-            "button_link": "shopify:\/\/collections\/bracelets"
+            "button_link": "shopify://collections/bracelets"
           }
         }
       },
@@ -195,8 +199,8 @@
         "template--19438129774914__5b18620e-7bde-4a2b-aab9-640c07e2d85e-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0064.jpg",
-        "height": "medium",
+        "image": "shopify://shop_images/IMG_0064.jpg",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
