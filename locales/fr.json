@@ -303,7 +303,7 @@
         "title": "Vous possédez un compte ?",
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Connectez-vous</a> pour payer plus vite."
       },
-      "estimated_total": "Total estimé",
+      "estimated_total": "Total",
       "new_estimated_total": "Nouveau total estimé"
     },
     "footer": {
