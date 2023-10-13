@@ -1,28 +1,77 @@
 {
   "sections": {
+    "7bd1daec-a5c9-4567-988c-4545fa3834fc": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19172566499650__7bd1daec-a5c9-4567-988c-4545fa3834fc-1685754723eb99eaac-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nicolas-gutierrez-UiJJBTGlj3Q-unsplash.png",
+            "heading": "L'Amérique latine au bout des doigts",
+            "heading_size": "h0",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--19172566499650__7bd1daec-a5c9-4567-988c-4545fa3834fc-1685754723eb99eaac-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kina-pkRu9jpthLY-unsplash.png",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19172566499650__7bd1daec-a5c9-4567-988c-4545fa3834fc-1685754723eb99eaac-0",
+        "template--19172566499650__7bd1daec-a5c9-4567-988c-4545fa3834fc-1685754723eb99eaac-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "L'Amérique latine au bout des doigts",
             "heading_size": "h0"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
+            "button_label_1": "Découvrez nos bagues",
+            "button_link_1": "shopify:\/\/collections\/bagues",
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -31,155 +80,302 @@
       },
       "block_order": [
         "heading",
-        "text",
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_1334_abe59531-4665-45b3-be38-c55f50ed0aef.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "bottom-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "inverse",
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
+        "title": "Nos coups de cœur",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "produits-en-avant",
+        "products_to_show": 9,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
         "image_ratio": "adapt",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
+        "enable_quick_add": false,
         "columns_mobile": "2",
-        "padding_top": 28,
+        "swipe_on_mobile": true,
+        "padding_top": 44,
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
+    "1a783a9b-4bf3-45b5-a6ac-6e9146b58a11": {
+      "type": "slideshow",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
+        "template--19172566499650__1a783a9b-4bf3-45b5-a6ac-6e9146b58a11-168521389726452fe7-0": {
+          "type": "slide",
           "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
+            "image": "shopify:\/\/shop_images\/dropped-magazine-4m6fF-V9U0k-unsplash.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "template--19172566499650__1a783a9b-4bf3-45b5-a6ac-6e9146b58a11-168521389726452fe7-0"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
-    "video": {
-      "type": "video",
+    "a6b51a07-c58a-4775-a723-286c7c31c464": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19172566499650__a6b51a07-c58a-4775-a723-286c7c31c464-168521378805dbe292-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bagues"
+          }
+        },
+        "template--19172566499650__a6b51a07-c58a-4775-a723-286c7c31c464-168521378805dbe292-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pendentifs"
+          }
+        },
+        "template--19172566499650__a6b51a07-c58a-4775-a723-286c7c31c464-168521378805dbe292-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bracelets"
+          }
+        }
+      },
+      "block_order": [
+        "template--19172566499650__a6b51a07-c58a-4775-a723-286c7c31c464-168521378805dbe292-0",
+        "template--19172566499650__a6b51a07-c58a-4775-a723-286c7c31c464-168521378805dbe292-1",
+        "template--19172566499650__a6b51a07-c58a-4775-a723-286c7c31c464-168521378805dbe292-2"
+      ],
       "settings": {
-        "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "title": "Tous nos bijoux",
         "heading_size": "h1",
-        "description": "",
-        "full_width": false,
+        "image_ratio": "square",
+        "columns_desktop": 3,
         "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
+    "361f7cd6-9704-4845-a972-d025188b37fb": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19172566499650__361f7cd6-9704-4845-a972-d025188b37fb-1685213966586f2001-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vous ne connaissez pas votre taille de bague ?",
+            "heading_size": "h1"
+          }
+        },
+        "template--19172566499650__361f7cd6-9704-4845-a972-d025188b37fb-1685213966586f2001-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pas d'inquiétude ! Vous pouvez vous référencer à notre guide des tailles pour la déterminer. Nous vous proposons plusieurs méthodes<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19172566499650__361f7cd6-9704-4845-a972-d025188b37fb-1685213966586f2001-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Guide des tailles",
+            "button_link": "shopify:\/\/pages\/guide-des-tailles"
+          }
+        }
+      },
+      "block_order": [
+        "template--19172566499650__361f7cd6-9704-4845-a972-d025188b37fb-1685213966586f2001-0",
+        "template--19172566499650__361f7cd6-9704-4845-a972-d025188b37fb-1685213966586f2001-1",
+        "template--19172566499650__361f7cd6-9704-4845-a972-d025188b37fb-1685213966586f2001-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9126_6251a042-a825-465f-bb66-ebb33f4f5407.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e44ff925-13b3-4521-a89f-e55ae852692e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19438129185090__e44ff925-13b3-4521-a89f-e55ae852692e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Besoin d'une idée cadeau ?",
+            "heading_size": "h1"
+          }
+        },
+        "template--19438129185090__e44ff925-13b3-4521-a89f-e55ae852692e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vous souhaitez faire plaisir à un parent, ami, conjoint ? <br\/>La carte cadeau Altiplano est faite pour vous ! Faites votre choix parmi les différents montants que nous proposons.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19438129185090__e44ff925-13b3-4521-a89f-e55ae852692e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Découvrir notre carte cadeau",
+            "button_link": "shopify:\/\/products\/carte-cadeau-altiplano"
+          }
+        }
+      },
+      "block_order": [
+        "template--19438129185090__e44ff925-13b3-4521-a89f-e55ae852692e-heading-1",
+        "template--19438129185090__e44ff925-13b3-4521-a89f-e55ae852692e-text-1",
+        "template--19438129185090__e44ff925-13b3-4521-a89f-e55ae852692e-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0302.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "155d13e7-e9a6-4a31-b2df-70728dd58f85": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19172566499650__155d13e7-e9a6-4a31-b2df-70728dd58f85-168521071138e66d88-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Suivez-nous sur Instagram",
+            "heading_size": "h1"
+          }
+        },
+        "fcb1e1e4-aee9-41dc-b289-a08004557554": {
+          "type": "text",
+          "settings": {
+            "text": "Identifiez-nous dans vos posts et stories. On vous repost !",
+            "text_style": "body"
+          }
+        },
+        "0c568606-8c8a-44f4-9534-e5d1a88b4b6e": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "@altiplanoparis",
+            "button_link_1": "https:\/\/www.instagram.com\/altiplanoparis\/",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19172566499650__155d13e7-e9a6-4a31-b2df-70728dd58f85-168521071138e66d88-0",
+        "fcb1e1e4-aee9-41dc-b289-a08004557554",
+        "0c568606-8c8a-44f4-9534-e5d1a88b4b6e"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dropped-magazine-4m6fF-V9U0k-unsplash.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "fbdc0e96-1004-4e05-a594-e47b9a13831c": {
       "type": "multicolumn",
       "blocks": {
-        "column1": {
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Latino.svg",
+            "title": "Fabriqué en Amérique Latine",
+            "text": "<p>Tous nos bijoux sont fabriqués à la main par nos artisans en Amérique Latine<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column2": {
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Pay_safe.svg",
+            "title": "Paiement sécurisé",
+            "text": "<p>Paiement via CB, Visa, Mastercard, Paypal<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column3": {
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Clock_d1aee8cc-a58d-435e-942d-ccb7112b2180.svg",
+            "title": "Livraison rapide",
+            "text": "<p>Expédition et livraison en 2 à 4 jours ouvrés (France métropolitaine)<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-2",
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-1",
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-0"
       ],
       "settings": {
         "title": "",
@@ -191,20 +387,23 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
         "color_scheme": "background-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
+    "7bd1daec-a5c9-4567-988c-4545fa3834fc",
     "image_banner",
-    "rich_text",
     "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
+    "1a783a9b-4bf3-45b5-a6ac-6e9146b58a11",
+    "a6b51a07-c58a-4775-a723-286c7c31c464",
+    "361f7cd6-9704-4845-a972-d025188b37fb",
+    "e44ff925-13b3-4521-a89f-e55ae852692e",
+    "155d13e7-e9a6-4a31-b2df-70728dd58f85",
+    "fbdc0e96-1004-4e05-a594-e47b9a13831c"
   ]
 }

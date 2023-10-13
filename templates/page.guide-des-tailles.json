@@ -1,0 +1,222 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "166e7b3c-31ea-4c55-83b4-1447be9ad916": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19245352616258__166e7b3c-31ea-4c55-83b4-1447be9ad916-1685302268954309be-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Guide des tailles",
+            "heading_size": "h0"
+          }
+        },
+        "template--19245352616258__166e7b3c-31ea-4c55-83b4-1447be9ad916-1685302268954309be-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vous ne connaissez pas votre taille de bijoux ? <\/p><p>Pas d'inquiétude, nous sommes la pour vous accompagner. Voici plusieurs méthodes qui vous permettront de définir votre taille idéale<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19245352616258__166e7b3c-31ea-4c55-83b4-1447be9ad916-1685302268954309be-0",
+        "template--19245352616258__166e7b3c-31ea-4c55-83b4-1447be9ad916-1685302268954309be-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "7c1c3af1-5a68-4d5b-8244-1dbe25f2754c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19438129774914__7c1c3af1-5a68-4d5b-8244-1dbe25f2754c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bagues",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--19438129774914__7c1c3af1-5a68-4d5b-8244-1dbe25f2754c-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "e953a1d3-9433-453e-8bd7-4d4a6b1264dc": {
+      "type": "multirow",
+      "blocks": {
+        "template--19438129774914__e953a1d3-9433-453e-8bd7-4d4a6b1264dc-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7593.jpg",
+            "caption": "Méthode 1",
+            "heading": "Le baguier",
+            "text": "<ul><li>Commandez notre <a href=\"\/products\/baguier-altiplano\" target=\"_blank\" title=\"Baguier Altiplano\">baguier<\/a> et recevez le sous 3 jours ouvrés<\/li><li>Insérez votre doigt dans le baguier et tirez la languette jusqu'a ce qu'il s'adapte à votre doigt. Attention à ne pas trop serrer  <\/li><li>Votre taille est indiquée à l'aide la flèche<\/li><\/ul>",
+            "button_label": "Découvrir le baguier",
+            "button_link": "shopify:\/\/products\/baguier-altiplano"
+          }
+        },
+        "template--19438129774914__e953a1d3-9433-453e-8bd7-4d4a6b1264dc-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/al-amin-mir-sUY_XCkKBzg-unsplash.jpg",
+            "caption": "Méthode 2",
+            "heading": "Le baguier à imprimer",
+            "text": "<p>Imprimez un baguier à l'échelle, découpez le avec une paire de ciseaux, enroulez le autour de votre doigt et prenez la mesure.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "c05f2eae-e43f-4678-b20c-424c4825fb3a": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0347.jpg",
+            "caption": "Méthode 3",
+            "heading": "La ficelle",
+            "text": "<ul><li>Découpez une ficelle<\/li><li>Entourez votre doigt avec la ficelle sans trop serrer<\/li><li>Munissez vous d'un crayon \/ feutre et marquez l'endroit ou les 2 ficelles se rejoignent<\/li><li>À l'aide d'une règle faites une mesure entre l'extremitée de la ficelle et votre point de marquage<\/li><li>La mesure obtenue correspond à la circonférence de votre doigt<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--19438129774914__e953a1d3-9433-453e-8bd7-4d4a6b1264dc-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0337.jpg",
+            "caption": "Méthode 4",
+            "heading": "L'application mobile",
+            "text": "<p>Cette méthode s'applique si vous possédez déjà des bijoux<\/p><ul><li>Télécharger l'application<\/li><li>Ouvrez l'application<\/li><li>Déposez votre bague sur votre téléphone<\/li><li>Ajustez la règle jusqu'a ce que la circonférence de votre bague corresponde parfaitement à celle de l'anneau affiché sur votre téléphone<\/li><\/ul>",
+            "button_label": "Télécharger l'application IOS",
+            "button_link": "https:\/\/apps.apple.com\/fr\/app\/baguier-mesure-taille-de-bague\/id1644578569"
+          }
+        }
+      },
+      "block_order": [
+        "template--19438129774914__e953a1d3-9433-453e-8bd7-4d4a6b1264dc-row-1",
+        "template--19438129774914__e953a1d3-9433-453e-8bd7-4d4a6b1264dc-row-3",
+        "c05f2eae-e43f-4678-b20c-424c4825fb3a",
+        "template--19438129774914__e953a1d3-9433-453e-8bd7-4d4a6b1264dc-row-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "c43d2662-cdd0-4d6d-9b05-cc3ccb4720da": {
+      "type": "page",
+      "settings": {
+        "page": "tailles-par-bague",
+        "heading_size": "h2",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e18ab166-9138-4374-9240-7a88e3945ccf": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19438129774914__e18ab166-9138-4374-9240-7a88e3945ccf-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bracelets & Joncs",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--19438129774914__e18ab166-9138-4374-9240-7a88e3945ccf-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "5b18620e-7bde-4a2b-aab9-640c07e2d85e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19438129774914__5b18620e-7bde-4a2b-aab9-640c07e2d85e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Quelle taille pour un jonc ?",
+            "heading_size": "h1"
+          }
+        },
+        "template--19438129774914__5b18620e-7bde-4a2b-aab9-640c07e2d85e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tous nos joncs sont en taille unique. Nos joncs ont une ouverture moyenne de 3cm et sont étirables. Attention cependant à ne pas trop les étirer au risque de les déformer \/ abimer.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19438129774914__5b18620e-7bde-4a2b-aab9-640c07e2d85e-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Découvrir les joncs",
+            "button_link": "shopify:\/\/collections\/bracelets"
+          }
+        }
+      },
+      "block_order": [
+        "template--19438129774914__5b18620e-7bde-4a2b-aab9-640c07e2d85e-heading-1",
+        "template--19438129774914__5b18620e-7bde-4a2b-aab9-640c07e2d85e-text-1",
+        "template--19438129774914__5b18620e-7bde-4a2b-aab9-640c07e2d85e-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0064.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166e7b3c-31ea-4c55-83b4-1447be9ad916",
+    "7c1c3af1-5a68-4d5b-8244-1dbe25f2754c",
+    "e953a1d3-9433-453e-8bd7-4d4a6b1264dc",
+    "c43d2662-cdd0-4d6d-9b05-cc3ccb4720da",
+    "e18ab166-9138-4374-9240-7a88e3945ccf",
+    "5b18620e-7bde-4a2b-aab9-640c07e2d85e"
+  ]
+}
