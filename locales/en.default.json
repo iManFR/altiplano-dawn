@@ -176,7 +176,7 @@
       "include_taxes": "Tax included.",
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping</a> calculated at checkout.",
       "size_guide": "Sizing guide",
-      "need_size": "Need to know your size"
+      "need_size": "Need to know your size ?"
     },
     "modal": {
       "label": "Media gallery"
