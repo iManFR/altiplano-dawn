@@ -174,7 +174,8 @@
         "price_at_each": "a {{ price }} por unidad",
         "price_range": "{{ minimum }} - {{ maximum }}"
       },
-      "product_variants": "Variantes de producto"
+      "product_variants": "Variantes de producto",
+      "size_guide": "Guía de tallas"
     },
     "modal": {
       "label": "Galería multimedia"

@@ -174,7 +174,8 @@
         "minimum": "{{ quantity }} ou plus",
         "price_at_each": "à {{ price }}\/pièce",
         "price_range": "{{ minimum }} - {{ maximum }}"
-      }
+      },
+      "size_guide": "Guide des tailles"
     },
     "modal": {
       "label": "Galerie de supports multimédias"
