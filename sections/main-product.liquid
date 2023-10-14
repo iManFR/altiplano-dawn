@@ -424,6 +424,7 @@
               {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
               {%- if product.template_suffix == 'bagues' or product.template_suffix == 'joncs' and pages['guide-des-tailles'].url -%}
                 <div class="rte">
+                  <span class="caption">{{  'products.product.need_size' | t }}</span>
                   <a class="caption" href="{{ pages['guide-des-tailles'].url }}" target="_blank">{{ 'products.product.size_guide' | t }}</a>
                 </div>
               {%- endif -%}

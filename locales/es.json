@@ -118,7 +118,7 @@
         "minimum_of": "Mínimo de {{ quantity }}",
         "maximum_of": "Máximo de {{ quantity }}",
         "multiples_of": "Incrementos de {{ quantity }}",
-        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> en el carrito",
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> en el carrito",
         "note": "Ver reglas de cantidad"
       },
       "price": {
@@ -138,8 +138,8 @@
         "view_store_info": "Ver información de la tienda",
         "check_other_stores": "Verificar disponibilidad en otras tiendas",
         "pick_up_available": "Retiro disponible",
-        "pick_up_available_at_html": "Retiro disponible en <span class=\"color-foreground\">{{ location_name }}<\/span>",
-        "pick_up_unavailable_at_html": "Retiro no disponible actualmente en <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_available_at_html": "Retiro disponible en <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_unavailable_at_html": "Retiro no disponible actualmente en <span class=\"color-foreground\">{{ location_name }}</span>",
         "unavailable": "No se pudo cargar la disponibilidad de retiro",
         "refresh": "Actualizar"
       },
@@ -155,7 +155,7 @@
       },
       "view_full_details": "Ver todos los detalles",
       "include_taxes": "Impuesto incluido.",
-      "shipping_policy_html": "Los <a href=\"{{ link }}\">gastos de envío<\/a> se calculan en la pantalla de pago.",
+      "shipping_policy_html": "Los <a href=\"{{ link }}\">gastos de envío</a> se calculan en la pantalla de pago.",
       "choose_options": "Seleccionar opciones",
       "choose_product_options": "Elegir opciones para {{ product_name }}",
       "value_unavailable": "{{ option_value }}: no disponible",
@@ -175,7 +175,8 @@
         "price_range": "{{ minimum }} - {{ maximum }}"
       },
       "product_variants": "Variantes de producto",
-      "size_guide": "Guía de tallas"
+      "size_guide": "Guía de tallas",
+      "need_size": "¿No conoce su talla?"
     },
     "modal": {
       "label": "Galería multimedia"
