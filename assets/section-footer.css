@@ -418,6 +418,10 @@
   align-items: end;
 }
 
+.footer-block__brand-info p {
+  font-size: 1.4rem;
+}
+
 .footer-block:only-child .footer-block__brand-info {
   text-align: center;
 }
