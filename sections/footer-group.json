@@ -27,12 +27,10 @@
             "subtext": "<p><em>\"On pouvait y apercevoir le jour d'un côté et la nuit de l'autre\"<\/em><\/p>"
           }
         },
-        "717509cb-1f74-4c33-8587-9105708f305b": {
-          "type": "image",
+        "abe70ce6-3ddf-416f-a53a-7f5314ef2718": {
+          "type": "brand_information",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_4.svg",
-            "image_width": 195,
-            "alignment": "center"
+            "show_social": false
           }
         }
       },
@@ -40,7 +38,7 @@
         "26271411-4df0-4b90-81e2-ddec23e5fa37",
         "1a2f8fac-8ebe-483e-b5fe-8dcbe073e9b3",
         "f444725a-eda1-458d-ab7b-198dfec86c15",
-        "717509cb-1f74-4c33-8587-9105708f305b"
+        "abe70ce6-3ddf-416f-a53a-7f5314ef2718"
       ],
       "settings": {
         "color_scheme": "inverse",
