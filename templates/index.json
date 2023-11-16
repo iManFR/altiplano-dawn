@@ -1,5 +1,52 @@
 {
   "sections": {
+    "8b160f94-2074-4575-a86e-bdc5c7b18af6": {
+      "type": "stories",
+      "blocks": {
+        "2ba1af66-acf2-4802-b0ca-7ed16320e70b": {
+          "type": "collection_story",
+          "settings": {
+            "collection": "bagues"
+          }
+        },
+        "63a61f7c-b63c-4fbf-8e76-618d69d722c7": {
+          "type": "collection_story",
+          "settings": {
+            "collection": "bracelets"
+          }
+        },
+        "e346fa0f-209e-4c9c-8a7b-29d2753789ce": {
+          "type": "collection_story",
+          "settings": {
+            "collection": "pendentifs"
+          }
+        },
+        "0b14cc56-c798-47b3-a31f-396827231c13": {
+          "type": "collection_story",
+          "settings": {
+            "collection": "accessoires",
+            "image": "shopify:\/\/shop_images\/IMG_7593_e0294d34-2e72-40f6-ab4a-3ef3770bf4c5.jpg"
+          }
+        },
+        "cdd07660-22a7-431b-93d1-8720dda8f206": {
+          "type": "product_story",
+          "settings": {
+            "product": "carte-cadeau-altiplano"
+          }
+        }
+      },
+      "block_order": [
+        "2ba1af66-acf2-4802-b0ca-7ed16320e70b",
+        "63a61f7c-b63c-4fbf-8e76-618d69d722c7",
+        "e346fa0f-209e-4c9c-8a7b-29d2753789ce",
+        "0b14cc56-c798-47b3-a31f-396827231c13",
+        "cdd07660-22a7-431b-93d1-8720dda8f206"
+      ],
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "7bd1daec-a5c9-4567-988c-4545fa3834fc": {
       "type": "slideshow",
       "blocks": {
@@ -439,6 +486,7 @@
     }
   },
   "order": [
+    "8b160f94-2074-4575-a86e-bdc5c7b18af6",
     "7bd1daec-a5c9-4567-988c-4545fa3834fc",
     "image_banner",
     "featured_collection",
