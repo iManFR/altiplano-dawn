@@ -25,6 +25,8 @@
   flex-flow: column nowrap;
   gap: 8px;
   align-items: center;
+  text-decoration: none;
+  color: inherit;
 }
 
 .stories__story:last-child {
@@ -56,4 +58,5 @@
   text-overflow: ellipsis;
   text-align: center;
   white-space: nowrap;
+  text-decoration: none;
 }

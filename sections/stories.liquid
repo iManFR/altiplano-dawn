@@ -18,7 +18,11 @@
   {% for block in section.blocks %}
     {% case block.type %}
       {% when 'collection_story' %}
+        {% if block.settings.collection.url %}
+        <a href="{{ block.settings.collection.url }}" class="stories__story">
+        {% else %}
         <div class="stories__story">
+        {% endif %}
           <div class="stories__story__image">
             {% if block.settings.collection.image %}
               {{ block.settings.collection.image | image_url: width: 140 | image_tag }}
@@ -29,9 +33,17 @@
           {% if block.settings.collection.title %}
             <span class="stories__story__name">{{ block.settings.collection.title }}</span>
           {% endif %}
+        {% if block.settings.collection.url %}
+        </a>
+        {% else %}
         </div>
+        {% endif %}
       {% when 'product_story' %}
+        {% if block.settings.product.url %}
+        <a href="{{ block.settings.product.url }}" class="stories__story">
+        {% else %}
         <div class="stories__story">
+        {% endif %}  
           <div class="stories__story__image">
             {% if block.settings.product.images[0] %}
               {{ block.settings.product.images[0] | image_url: width: 140 | image_tag }}
@@ -42,9 +54,17 @@
           {% if block.settings.product.title %}
             <span class="stories__story__name">{{ block.settings.product.title }}</span>
           {% endif %}
+        {% if block.settings.product.url %}
+        </a>
+        {% else %}
         </div>
+        {% endif %}
       {% when 'page_story' %}
+        {% if block.settings.page.url %}
+        <a href="{{ block.settings.page.url }}" class="stories__story">
+        {% else %}
         <div class="stories__story">
+        {% endif %}  
           <div class="stories__story__image">
             {% if block.settings.image %}
               {{ block.settings.image | image_url: width: 140 | image_tag }}
@@ -53,7 +73,11 @@
           {% if block.settings.page.title %}
             <span class="stories__story__name">{{ block.settings.page.title }}</span>
           {% endif %}
+        {% if block.settings.page.url %}
+        </a>
+        {% else %}
         </div>
+        {% endif %}
     {% endcase %}
   {% endfor %}
 </div>
