@@ -313,6 +313,7 @@ cart-drawer-items {
 
 .cart-drawer .price {
   line-height: 1;
+  white-space: nowrap;
 }
 
 .cart-drawer .tax-note {
