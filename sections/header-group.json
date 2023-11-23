@@ -7,6 +7,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Livraison gratuite à partir de 100 € d'achat en France métropolitaine",
             "link": ""
