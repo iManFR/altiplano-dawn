@@ -7,7 +7,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Livraison gratuite à partir de 100 € d'achat en France métropolitaine",
             "link": ""
@@ -15,6 +14,7 @@
         },
         "6b664159-a128-4c36-978b-df8ce2ccdb5a": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "10% de réduction avec le code BLACKFRIDAY jusqu’à vendredi minuit",
             "link": ""
