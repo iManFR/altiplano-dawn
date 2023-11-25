@@ -399,6 +399,10 @@ a.product__text {
   font-weight: 600;
 }
 
+.product__description {
+  font-size: 1.4rem;
+}
+
 .product--no-media .product__title,
 .product--no-media .product__text,
 .product--no-media noscript .product-form__input,
