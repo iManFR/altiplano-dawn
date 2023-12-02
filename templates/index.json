@@ -234,6 +234,7 @@
         "aaee7d40-1260-4759-a387-8a8950e2b59b",
         "cf69b668-975f-42a7-94e6-cd98ba949221"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Tous nos bijoux",
         "heading_size": "h1",
@@ -272,11 +273,10 @@
         "template--19172566499650__a6b51a07-c58a-4775-a723-286c7c31c464-168521378805dbe292-1",
         "template--19172566499650__a6b51a07-c58a-4775-a723-286c7c31c464-168521378805dbe292-2"
       ],
-      "disabled": true,
       "settings": {
-        "title": "Tous nos bijoux",
+        "title": "",
         "heading_size": "h1",
-        "image_ratio": "square",
+        "image_ratio": "portrait",
         "columns_desktop": 3,
         "color_scheme": "background-1",
         "show_view_all": false,
