@@ -5,6 +5,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_DNbNzN": {
+          "type": "announcement",
+          "settings": {
+            "text": "OFFRE SAINT VALENTIN : -10% avec le code \"AMOR\" jusqu'au 14 février",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -19,26 +26,19 @@
             "text": "10% de réduction avec le code BLACKFRIDAY jusqu’à vendredi minuit",
             "link": ""
           }
-        },
-        "announcement_DNbNzN": {
-          "type": "announcement",
-          "settings": {
-            "text": "OFFRE SAINT VALENTIN : -10% avec le code \"AMOR\" jusqu'au 14 février",
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "announcement_DNbNzN",
         "announcement-bar-0",
-        "6b664159-a128-4c36-978b-df8ce2ccdb5a",
-        "announcement_DNbNzN"
+        "6b664159-a128-4c36-978b-df8ce2ccdb5a"
       ],
       "settings": {
         "color_scheme": "accent-1",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
-        "change_slides_speed": 5,
+        "auto_rotate": true,
+        "change_slides_speed": 4,
         "enable_country_selector": false,
         "enable_language_selector": false
       }
