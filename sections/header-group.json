@@ -7,6 +7,7 @@
       "blocks": {
         "announcement_DNbNzN": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "OFFRE SAINT VALENTIN : -10% avec le code \"AMOR\" jusqu'au 14 février",
             "link": ""
