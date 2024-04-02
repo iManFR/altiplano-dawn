@@ -122,7 +122,7 @@
     "show_cart_note": true,
     "cart_drawer_collection": "accessoires",
     "checkout_logo_image": "shopify:\/\/shop_images\/Logo_green.svg",
-    "checkout_logo_position": "center",
+    "checkout_logo_position": "left",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#edebe8",
     "checkout_input_background_color_mode": "white",
