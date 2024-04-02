@@ -92,10 +92,67 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "fbdc0e96-1004-4e05-a594-e47b9a13831c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Latino.svg",
+            "title": "Fabriqué en Amérique Latine",
+            "text": "<p>Tous nos bijoux sont fabriqués à la main par nos artisans en Amérique Latine<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pay_safe.svg",
+            "title": "Paiement sécurisé",
+            "text": "<p>Paiement via CB, Visa, Mastercard, Amex, Paypal<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Clock_d1aee8cc-a58d-435e-942d-ccb7112b2180.svg",
+            "title": "Livraison rapide",
+            "text": "<p>Expédition et livraison en 2 à 4 jours ouvrés (France métropolitaine)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-2",
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-1",
+        "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "fbdc0e96-1004-4e05-a594-e47b9a13831c"
   ]
 }
