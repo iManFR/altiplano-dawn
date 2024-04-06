@@ -40,10 +40,17 @@
     "rich_text_7WRzbq": {
       "type": "rich-text",
       "blocks": {
+        "heading_xLNfPC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Découvrez nos bijoux",
+            "heading_size": "h1"
+          }
+        },
         "button_YAnxgY": {
           "type": "button",
           "settings": {
-            "button_label": "Découvrir nos bijoux",
+            "button_label": "Tous nos bijoux",
             "button_link": "shopify:\/\/collections\/all",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -53,6 +60,7 @@
         }
       },
       "block_order": [
+        "heading_xLNfPC",
         "button_YAnxgY"
       ],
       "settings": {
