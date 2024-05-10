@@ -171,6 +171,33 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_CrUUyt": {
+      "type": "rich-text",
+      "blocks": {
+        "button_QUtngm": {
+          "type": "button",
+          "settings": {
+            "button_label": "Découvrir toute la collection",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_QUtngm"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1a783a9b-4bf3-45b5-a6ac-6e9146b58a11": {
       "type": "slideshow",
       "blocks": {
@@ -284,33 +311,6 @@
         "swipe_on_mobile": false,
         "padding_top": 44,
         "padding_bottom": 36
-      }
-    },
-    "rich_text_CrUUyt": {
-      "type": "rich-text",
-      "blocks": {
-        "button_QUtngm": {
-          "type": "button",
-          "settings": {
-            "button_label": "Découvrir toute la collection",
-            "button_link": "shopify:\/\/collections\/all",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button_QUtngm"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "361f7cd6-9704-4845-a972-d025188b37fb": {
@@ -547,10 +547,10 @@
     "7bd1daec-a5c9-4567-988c-4545fa3834fc",
     "image_banner",
     "featured_collection",
+    "rich_text_CrUUyt",
     "1a783a9b-4bf3-45b5-a6ac-6e9146b58a11",
     "f3220d92-4afa-4d2f-b194-36d1531ba7c3",
     "a6b51a07-c58a-4775-a723-286c7c31c464",
-    "rich_text_CrUUyt",
     "361f7cd6-9704-4845-a972-d025188b37fb",
     "e44ff925-13b3-4521-a89f-e55ae852692e",
     "rich_text_6pYW48",
