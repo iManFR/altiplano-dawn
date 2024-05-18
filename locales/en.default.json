@@ -541,6 +541,14 @@
         },
         "item_label": {
           "many": "{{count}} items"
+        },
+        "unfulfillable_product": {
+          "message": {
+            "many": "%{delivery_method} is no longer available for these items."
+          },
+          "default_message": {
+            "many": "The chosen delivery method is no longer available for these items."
+          }
         }
       },
       "order_summary": {
@@ -747,6 +755,11 @@
         "reveal_more_label": {
           "many": "See %{count} more locations"
         }
+      },
+      "customer_account": {
+        "saved_address_option_description": {
+          "many": "You have {{count}} addresses saved."
+        }
       }
     },
     "notices": {
@@ -802,6 +815,9 @@
         },
         "gift_resend_failure": {
           "many": "There was a problem returning your gift cards. Try again or contact us."
+        },
+        "delivered_description_digital": {
+          "many": "These articles are finished."
         }
       },
       "if_not_received": {
