@@ -147,7 +147,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Bijoux artisanaux latino américains",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -275,7 +275,7 @@
       ],
       "settings": {
         "title": "Nos collections de bijoux en argent",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "image_ratio": "portrait",
         "columns_desktop": 3,
         "color_scheme": "background-1",
@@ -293,7 +293,7 @@
           "type": "heading",
           "settings": {
             "heading": "Vous ne connaissez pas votre taille de bague ?",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "template--19172566499650__361f7cd6-9704-4845-a972-d025188b37fb-1685213966586f2001-1": {
@@ -340,7 +340,7 @@
           "type": "heading",
           "settings": {
             "heading": "Besoin d'une idée cadeau ?",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "template--19438129185090__e44ff925-13b3-4521-a89f-e55ae852692e-text-1": {
@@ -387,7 +387,7 @@
           "type": "heading",
           "settings": {
             "heading": "Argent massif certifié 925",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "text_FbFzjt": {
