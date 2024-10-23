@@ -114,11 +114,23 @@
             "button_label": "",
             "button_link": ""
           }
+        },
+        "row_KXUrFe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO-2024-10-23-20-29-54.jpg",
+            "caption": "",
+            "heading": "Bijoux éthiques et respectueux de l’environnement",
+            "text": "<p>Chez Altiplano, nous nous engageons à réduire notre impact environnemental. Les matériaux utilisés tels que l'argent massif sont durables et recyclables, nous privilégions des méthodes de production respectueuses de la planète et de l'humain. Chaque bijou est conçu dans une démarche éco-responsable, sans compromis sur la qualité ou le style.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "row_8c9NHc",
-        "row_MQctcJ"
+        "row_MQctcJ",
+        "row_KXUrFe"
       ],
       "settings": {
         "image_height": "medium",
