@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "8b160f94-2074-4575-a86e-bdc5c7b18af6": {
@@ -34,7 +34,7 @@
           "type": "collection_story",
           "settings": {
             "collection": "accessoires",
-            "image": "shopify:\/\/shop_images\/IMG_7593_e0294d34-2e72-40f6-ab4a-3ef3770bf4c5.jpg"
+            "image": "shopify://shop_images/IMG_7593_e0294d34-2e72-40f6-ab4a-3ef3770bf4c5.jpg"
           }
         },
         "cdd07660-22a7-431b-93d1-8720dda8f206": {
@@ -62,7 +62,7 @@
         "template--19172566499650__7bd1daec-a5c9-4567-988c-4545fa3834fc-1685754723eb99eaac-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/nicolas-gutierrez-UiJJBTGlj3Q-unsplash.png",
+            "image": "shopify://shop_images/nicolas-gutierrez-UiJJBTGlj3Q-unsplash.png",
             "heading": "L'Amérique latine au bout des doigts",
             "heading_size": "h0",
             "subheading": "Tell your brand's story through images",
@@ -80,7 +80,7 @@
         "template--19172566499650__7bd1daec-a5c9-4567-988c-4545fa3834fc-1685754723eb99eaac-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/kina-pkRu9jpthLY-unsplash.png",
+            "image": "shopify://shop_images/kina-pkRu9jpthLY-unsplash.png",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -126,7 +126,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Découvrez nos bagues",
-            "button_link_1": "shopify:\/\/collections\/bagues",
+            "button_link_1": "shopify://collections/bagues",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -139,7 +139,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSC06163.jpg",
+        "image": "shopify://shop_images/DSC06163.jpg",
         "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "bottom-left",
@@ -186,7 +186,7 @@
         "template--19172566499650__1a783a9b-4bf3-45b5-a6ac-6e9146b58a11-168521389726452fe7-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/dropped-magazine-4m6fF-V9U0k-unsplash.jpg",
+            "image": "shopify://shop_images/dropped-magazine-4m6fF-V9U0k-unsplash.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -308,7 +308,7 @@
         "template--19172566499650__361f7cd6-9704-4845-a972-d025188b37fb-1685213966586f2001-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pas d'inquiétude ! Vous pouvez vous référencer à notre guide des tailles pour la déterminer. Nous vous proposons plusieurs méthodes<\/p>",
+            "text": "<p>Pas d'inquiétude ! Vous pouvez vous référencer à notre guide des tailles pour la déterminer. Nous vous proposons plusieurs méthodes</p>",
             "text_style": "body"
           }
         },
@@ -316,7 +316,7 @@
           "type": "button",
           "settings": {
             "button_label": "Guide des tailles",
-            "button_link": "shopify:\/\/pages\/guide-des-tailles",
+            "button_link": "shopify://pages/guide-des-tailles",
             "button_style_secondary": false
           }
         }
@@ -327,7 +327,7 @@
         "template--19172566499650__361f7cd6-9704-4845-a972-d025188b37fb-1685213966586f2001-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_7593_e0294d34-2e72-40f6-ab4a-3ef3770bf4c5.jpg",
+        "image": "shopify://shop_images/IMG_7593_e0294d34-2e72-40f6-ab4a-3ef3770bf4c5.jpg",
         "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -340,6 +340,56 @@
         "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_iDNQJx": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_DcemMz": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_r4xhkP": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_xJjTBJ": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DcemMz",
+        "text_r4xhkP",
+        "buttons_xJjTBJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Artisan_Content_8158.jpg",
+        "image_2": "shopify://shop_images/PHOTO-2024-10-23-20-29-54.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "e44ff925-13b3-4521-a89f-e55ae852692e": {
@@ -355,7 +405,7 @@
         "template--19438129185090__e44ff925-13b3-4521-a89f-e55ae852692e-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Vous souhaitez faire plaisir à un parent, ami, conjoint ? <br\/>La carte cadeau Altiplano est faite pour vous ! Faites votre choix parmi les différents montants que nous proposons.<\/p>",
+            "text": "<p>Vous souhaitez faire plaisir à un parent, ami, conjoint ? <br/>La carte cadeau Altiplano est faite pour vous ! Faites votre choix parmi les différents montants que nous proposons.</p>",
             "text_style": "body"
           }
         },
@@ -363,7 +413,7 @@
           "type": "button",
           "settings": {
             "button_label": "Découvrir notre carte cadeau",
-            "button_link": "shopify:\/\/products\/carte-cadeau-altiplano",
+            "button_link": "shopify://products/carte-cadeau-altiplano",
             "button_style_secondary": false
           }
         }
@@ -374,7 +424,7 @@
         "template--19438129185090__e44ff925-13b3-4521-a89f-e55ae852692e-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0302_2-2.jpg",
+        "image": "shopify://shop_images/IMG_0302_2-2.jpg",
         "height": "large",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -402,7 +452,7 @@
         "text_FbFzjt": {
           "type": "text",
           "settings": {
-            "text": "<p>Chez Altiplano, nous sommes engagés à offrir le meilleur à nos clients. Chaque pièce de notre collection est fabriquée à partir d'argent certifié, garantissant une qualité supérieure et une finition impeccable. Nos bijoux ne sont pas seulement des accessoires, mais des œuvres d'art durables, respectueuses de l'environnement et conformes aux normes internationales les plus strictes.<\/p>"
+            "text": "<p>Chez Altiplano, nous sommes engagés à offrir le meilleur à nos clients. Chaque pièce de notre collection est fabriquée à partir d'argent certifié, garantissant une qualité supérieure et une finition impeccable. Nos bijoux ne sont pas seulement des accessoires, mais des œuvres d'art durables, respectueuses de l'environnement et conformes aux normes internationales les plus strictes.</p>"
           }
         }
       },
@@ -440,7 +490,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "@altiplanoparis",
-            "button_link_1": "https:\/\/www.instagram.com\/altiplanoparis\/",
+            "button_link_1": "https://www.instagram.com/altiplanoparis/",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -454,7 +504,7 @@
         "0c568606-8c8a-44f4-9534-e5d1a88b4b6e"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/thimo-van-leeuwen-nz08m1BF8Io-unsplash.jpg",
+        "image": "shopify://shop_images/thimo-van-leeuwen-nz08m1BF8Io-unsplash.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -473,9 +523,9 @@
         "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Latino.svg",
+            "image": "shopify://shop_images/Latino.svg",
             "title": "Fabriqué en Amérique Latine",
-            "text": "<p>Tous nos bijoux sont fabriqués à la main par nos artisans en Amérique Latine<\/p>",
+            "text": "<p>Tous nos bijoux sont fabriqués à la main par nos artisans en Amérique Latine</p>",
             "link_label": "",
             "link": ""
           }
@@ -483,9 +533,9 @@
         "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Pay_safe.svg",
+            "image": "shopify://shop_images/Pay_safe.svg",
             "title": "Paiement sécurisé",
-            "text": "<p>Paiement via CB, Visa, Mastercard, Amex, Paypal<\/p>",
+            "text": "<p>Paiement via CB, Visa, Mastercard, Amex, Paypal</p>",
             "link_label": "",
             "link": ""
           }
@@ -493,9 +543,9 @@
         "template--19172566499650__fbdc0e96-1004-4e05-a594-e47b9a13831c-168521080759696f54-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Clock_d1aee8cc-a58d-435e-942d-ccb7112b2180.svg",
+            "image": "shopify://shop_images/Clock_d1aee8cc-a58d-435e-942d-ccb7112b2180.svg",
             "title": "Livraison rapide",
-            "text": "<p>Expédition et livraison en 2 à 4 jours ouvrés (France métropolitaine)<\/p>",
+            "text": "<p>Expédition et livraison en 2 à 4 jours ouvrés (France métropolitaine)</p>",
             "link_label": "",
             "link": ""
           }
@@ -533,6 +583,7 @@
     "f3220d92-4afa-4d2f-b194-36d1531ba7c3",
     "a6b51a07-c58a-4775-a723-286c7c31c464",
     "361f7cd6-9704-4845-a972-d025188b37fb",
+    "image_banner_iDNQJx",
     "e44ff925-13b3-4521-a89f-e55ae852692e",
     "rich_text_6pYW48",
     "155d13e7-e9a6-4a31-b2df-70728dd58f85",
