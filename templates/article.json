@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -46,6 +46,54 @@
       "settings": {
       }
     },
+    "image_banner_VjnykT": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_E3HBQ4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Découvrez nos bijoux",
+            "heading_size": "h1"
+          }
+        },
+        "text_QzQq6t": {
+          "type": "text",
+          "settings": {
+            "text": "Découvrez nos bagues, bracelets et pendentifs en argent, alliant savoir-faire artisanal et inspiration latino-américaine.",
+            "text_style": "body"
+          }
+        },
+        "buttons_bhf7NU": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Tous nos bijoux",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_E3HBQ4",
+        "text_QzQq6t",
+        "buttons_bhf7NU"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_1230_eb63b99b-d959-42b7-933f-61ad3833c14a.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "rich_text_7WRzbq": {
       "type": "rich-text",
       "blocks": {
@@ -60,7 +108,7 @@
           "type": "button",
           "settings": {
             "button_label": "Tous nos bijoux",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -72,6 +120,7 @@
         "heading_xLNfPC",
         "button_YAnxgY"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -101,6 +150,7 @@
   },
   "order": [
     "main",
+    "image_banner_VjnykT",
     "rich_text_7WRzbq",
     "featured_blog_rAqVcc"
   ]
