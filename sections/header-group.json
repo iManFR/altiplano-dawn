@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -13,26 +22,25 @@
             "link": ""
           }
         },
+        "6b664159-a128-4c36-978b-df8ce2ccdb5a": {
+          "type": "announcement",
+          "settings": {
+            "text": "10% de réduction avec le code NAVIDAD à l'occasion des fêtes de fin d'année",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
             "text": "Livraison gratuite à partir de 100 € d'achat en France métropolitaine",
             "link": ""
           }
-        },
-        "6b664159-a128-4c36-978b-df8ce2ccdb5a": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "10% de réduction avec le code BLACKFRIDAY jusqu’à vendredi minuit",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "announcement_DNbNzN",
-        "announcement-bar-0",
-        "6b664159-a128-4c36-978b-df8ce2ccdb5a"
+        "6b664159-a128-4c36-978b-df8ce2ccdb5a",
+        "announcement-bar-0"
       ],
       "settings": {
         "color_scheme": "accent-1",
